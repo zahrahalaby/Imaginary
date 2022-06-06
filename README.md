@@ -32,8 +32,6 @@ imaginary it's an image and tag app that allows the user to creat tags and assig
  2.nodemon app.js
 
 
- 
-
 **assumption**
  I assume that i have one user with id=1 witch allows me to access all the data that i need like the tags for that spesefic user forward i can add a log in poseblity and by that i can presnt the data for that spicific user,and that my tag input allows only letters and numbers 
 
@@ -58,8 +56,12 @@ Express provides plugins, template code, middleware packages, and routing functi
  axios-: axios is a directory that allows us to execute HTTP requests get, post, put and delete using promises.
 
 
+sql Server Structure
 
-
+table1 - Images    columns - id ,url , userID
+table2 - tagImage  columns - tagID ,imageID
+table3 - Tags            columns – id ,title ,userID ,color
+table4 - Users          columns – id ,name 
 
 
 
