@@ -4,7 +4,8 @@
 imaginary it's an image and tag app that allows the user to creat tags and assign them with images 
 
 ![image](https://user-images.githubusercontent.com/97873892/172257259-f7011d1d-012b-4a47-8eb4-4ebae211b2d5.png)
-![image](https://user-images.githubusercontent.com/97873892/172258000-b805afe6-496b-4289-a4ba-c3db8b0f7abe.png)
+![image](https://user-images.githubusercontent.com/97873892/172258184-59d47d5b-e792-4c4d-b5e2-24c0a68987f7.png)
+
 -create a tag and choose it color
 
 -update the tag 
