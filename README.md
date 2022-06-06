@@ -5,11 +5,17 @@ imaginary it's an image and tag app that allows the user to creat tags and assig
 
 
 -create a tag and choose it color
+
 -update the tag 
+
 -delete tag
+
 -get random images 
+
 -add image to tag  
+
 -show tags and their images  
+
 -delete image from the tag 
 
 **to start imaginary**
