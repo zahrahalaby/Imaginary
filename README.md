@@ -42,20 +42,15 @@ imaginary it's an image and tag app that allows the user to creat tags and assig
  **technologies**
  cors-: cross-origin resource sharing ,my app client and server side hosted on different domains.
  Therefore, my client that's requesting data from my server might have different origins, and CORS enables me to access a resource from a different origin.
- express-:Express is an open-source server-side framework built for Node. js.
-Express provides plugins, template code, middleware packages, and routing functionality for faster and efficient web development
-
- Express is a flexible Node.js web application framework that provides a  set of features for web and mobile applications ,it allwed me to creat a robust API is quick and easy and Many popular frameworks are based on Express like cors.
-
+ express-:Express is a flexible Node.js web application framework that provides a  set of features for web and mobile applications ,it allwed me to creat a robust API is quick and easy and Many popular frameworks are based on Express like cors.
  Express enables connection with the frontend through a minimalistic approach
-
  mssql-:Microsoft Structured Query Language in my project i chose to use sql server database it best fited my project because of its structure that is primarily built around a row-based table structure that connects related data elements in different tables to one another, avoiding the need to redundantly store data in multiple places within a database.
  and mssql is a language that helps me communicate with my database.
  react-: React. js is an open-source JavaScript library that is used for building user interfaces specifically for single-page applications.
  axios-: axios is a directory that allows us to execute HTTP requests get, post, put and delete using promises.
 
 
-sql Server Structure
+**sql Server Structure**
 
 table1 - Images    columns - id ,url , userID
 
