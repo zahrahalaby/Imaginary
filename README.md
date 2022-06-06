@@ -59,8 +59,11 @@ Express provides plugins, template code, middleware packages, and routing functi
 sql Server Structure
 
 table1 - Images    columns - id ,url , userID
+
 table2 - tagImage  columns - tagID ,imageID
+
 table3 - Tags            columns – id ,title ,userID ,color
+
 table4 - Users          columns – id ,name 
 
 
