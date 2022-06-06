@@ -24,8 +24,7 @@ imaginary it's an image and tag app that allows the user to creat tags and assig
 
  frontend-
  1.npm i
- 2.npm i react
- 3.npm start
+ 2.npm start
 
  backend-
  1.npm i
